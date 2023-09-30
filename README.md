@@ -1,6 +1,7 @@
 # Android_Sensors_Simulink_UDP
+Send Android Sensor Data over UDP in real-time  
+
 ![alt text](https://github.com/4mbilal/Android_Sensors_Simulink_UDP/blob/main/app_screen.png)
-Send Android Sensor Data over UDP in real-time
 
 Uses Simulink Support Package for Android to send the following sensor's data over UDP in real-time (100 Hz)
 -Accelerometer

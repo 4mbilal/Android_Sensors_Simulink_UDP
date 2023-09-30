@@ -42,6 +42,9 @@ defaultConfig {
     
 In Android Studio, generate apk for offline install if needed. The modified Android Studio project is in the zip file. 
 
+![alt text](https://github.com/4mbilal/Android_Sensors_Simulink_UDP/blob/main/rt_graph.jpg)  
+
+
 To-Do:
 Implement sensor fusion e.g. Kalman/Particle/weighted average complementary filtering
 

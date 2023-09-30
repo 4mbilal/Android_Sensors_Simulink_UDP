@@ -37,5 +37,10 @@ defaultConfig {
         }
     }
     
-In Android Studio, generate apk for offline install if needed.
+In Android Studio, generate apk for offline install if needed. The modified Android Studio project is in the zip file. 
+
+To-Do:
+Implement sensor fusion e.g. Kalman/Particle/weighted average complementary filtering
+
+Contact 4mbilal at gmail
 

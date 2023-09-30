@@ -42,6 +42,8 @@ defaultConfig {
     
 In Android Studio, generate apk for offline install if needed. The modified Android Studio project is in the zip file. 
 
+Run "Android_Sensors_UDP_ReadTest.m" in Matlab on the same WiFi network as Android device to receive the data in real-time.  
+
 ![alt text](https://github.com/4mbilal/Android_Sensors_Simulink_UDP/blob/main/rt_graph.jpg)  
 
 
